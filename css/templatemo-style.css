@@ -40,6 +40,10 @@ p {
 	text-decoration: none;
 	letter-spacing: 0.5px;
 }
+.primary-button a:hover {
+    background-color: blue;
+    color: black;
+}
 
 .primary-white-button a {
 	display: inline-block;
@@ -53,7 +57,10 @@ p {
 	text-decoration: none;
 	letter-spacing: 0.5px;
 }
-
+.primary-white-button a:hover {
+    background-color: blue;
+    color: black;
+}
 .border-button a {
 	display: inline-block;
 	background-color: transparent;
@@ -379,6 +386,10 @@ section#book-table .left-image img {
 	text-decoration: none;
 	letter-spacing: 0.5px;
 }
+.right-info button:hover {
+    background-color: blue;
+    color:black;
+}
 
 
 
@@ -572,6 +583,10 @@ section.sign-up {
 	text-decoration: none;
 	letter-spacing: 0.5px;
 	border: 1px solid #fff;
+}
+.sign-up button:hover{
+	background-color: blue;
+
 }
 
 .sign-up input {
@@ -969,7 +984,9 @@ section.contact-us {
 	text-decoration: none;
 	letter-spacing: 0.5px;
 }
-
+.contact-us button:hover{
+	background-color: blue;
+}
 section.map {
 	margin-bottom: 150px;
 }
