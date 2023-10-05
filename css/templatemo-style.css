@@ -41,7 +41,7 @@ p {
 	letter-spacing: 0.5px;
 }
 .primary-button a:hover {
-    background-color: blue;
+    background-color:#9BD3CB;
     color: black;
 }
 
@@ -58,7 +58,7 @@ p {
 	letter-spacing: 0.5px;
 }
 .primary-white-button a:hover {
-    background-color: blue;
+    background-color:#9BD3CB;
     color: black;
 }
 .border-button a {
@@ -387,7 +387,7 @@ section#book-table .left-image img {
 	letter-spacing: 0.5px;
 }
 .right-info button:hover {
-    background-color: blue;
+    background-color:#9BD3CB;
     color:black;
 }
 
@@ -585,7 +585,7 @@ section.sign-up {
 	border: 1px solid #fff;
 }
 .sign-up button:hover{
-	background-color: blue;
+	background-color:#9BD3CB;
 
 }
 
